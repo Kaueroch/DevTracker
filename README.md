@@ -85,7 +85,7 @@ Agradecemos imensamente aos nossos contribuidores atuais que ajudaram a construi
 
 <p align="center">
   <a href="https://github.com/nomedoseuperfil">
-    <img src="https://github.com/nomedoseuperfil.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #ddd;">
+    <img src="https://github.com/nomedoseuperfil.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #ddd;" alt="Sua foto do GitHub">
   </a>
 </p>
 
