@@ -1,25 +1,29 @@
+<div align="center">
+  <img src="./DevTrackerLogo.png" width="130" alt="DevTracker Logo">
 
-<img src="./DevTrackerLogo.png" width=130 align="center"></img>
+  <br><br>
 
-<p align="center">
   <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow" alt="Status: Em Desenvolvimento">
   <img src="https://img.shields.io/badge/Repo-GitHub-blue?logo=github" alt="Repositório GitHub">
   <img src="https://img.shields.io/badge/Core-Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Client-Angular-DD0031?logo=angular&logoColor=white" alt="Angular">
-</p>
+</div>
+
+<br>
 
 # DevTracker
 
-
 ## Tabela de Conteúdos
 
-   * [O que é DevTracker](#sobre-o-devtracker)
-      * [Qual problema a aplicação resolve](#qual-problema-a-aplicação-resolve)
-   * [Features](#features)
-   * [Guia de Setup Local](#guia-de-setup-local)
-   * [Status do Projeto](#status-do-projeto)
-   * [Como Contribuir](#como-contribuir)
+* [Sobre o DevTracker](#sobre-o-devtracker)
+  * [Qual problema a aplicação resolve](#qual-problema-a-aplicação-resolve)
+* [Features](#features-principais)
+* [Guia de Setup Local](#guia-de-setup-local)
+* [Status do Projeto](#status-do-projeto)
+* [Como Contribuir](#como-contribuir-para-o-projeto)
+* [Authors](#authors)
 
+---
 
 ## Sobre o DevTracker
 
@@ -27,21 +31,24 @@ O **DevTracker** é uma plataforma open-source de agregação de vagas em tecnol
 
 ### Qual problema a aplicação resolve
 
-DevTracker é focado em reduzir drasticamente o tempo de procura por vagas em diferentes sites,ou seja, todas as vagas relevantes e as quais encaixam perfeitamente no seu perfil irão aparecer de forma unificada para você em apenas uma tela. Assim, resolvendo os seguintes problemas:
+DevTracker é focado em reduzir drasticamente o tempo de procura por vagas em diferentes sites, ou seja, todas as vagas relevantes e as quais encaixam perfeitamente no seu perfil irão aparecer de forma unificada para você em apenas uma tela. Assim, resolvendo os seguintes problemas:
 
-   -Cansaço e perda de tempo ao navegar por diversos sites
-   
-   -Dificuldade para encontrar vagas que encaixam em seu perfil
+- Cansaço e perda de tempo ao navegar por diversos sites.
+- Dificuldade para encontrar vagas que encaixam em seu perfil.
+
+---
 
 ## Features principais
+
 A aplicação é focada em produtividade e eficiência, permitindo:
 
-- **Busca diversificada:** Com base em suas preferencias, fazemos buscas em diversos sites de empregos e retornamos as vagas que mais enciaxam no seu perfil.
+- **Busca diversificada:** Com base em suas preferências, fazemos buscas em diversos sites de empregos e retornamos as vagas que mais se encaixam no seu perfil.
 - **Filtros precisos:** Busca refinada por cargo, localização e senioridade.
 - **Redirecionamento otimizado:** Links diretos para a página de candidatura oficial.
 - **Não é necessário ser cadastrado:** Uso completo da plataforma sem necessidade de criar uma conta.
 - **Consistência visual:** Dados padronizados para facilitar a leitura e análise.
 
+---
 
 ## Status do Projeto
 
@@ -49,6 +56,7 @@ A aplicação é focada em produtividade e eficiência, permitindo:
 
 O DevTracker está atualmente na fase de construção da arquitetura base. Estamos estruturando o *core* do back-end em Java/Spring Boot para garantir uma lógica de busca e agregação de dados escalável, enquanto preparamos o terreno para o consumo desses dados pelo front-end em Angular.
 
+---
 
 ## Como Contribuir para o projeto? 
 
@@ -68,14 +76,20 @@ Para contribuir, siga o fluxo abaixo:
 
 Se você encontrar algum comportamento inesperado ou tiver uma ideia de nova funcionalidade, abra uma **Issue** detalhada para discutirmos a implementação.
 
+---
 
 ## Authors
+
+<div align="center">
   <a href="https://github.com/Kaueroch">
-    <img src="https://github.com/Kaueroch.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #ddd;" alt="Kaue Profile">
+    <img src="https://github.com/Kaueroch.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #ddd; margin-right: 15px;" alt="Kaue Profile">
   </a>
   <a href="https://github.com/httpsdanii">
     <img src="https://github.com/httpsdanii.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #ddd;" alt="Daniela Profile">
   </a>
+</div>
+
+---
 
 ## Contribuidores
 
@@ -83,10 +97,12 @@ Este projeto open-source cresce com a força da comunidade! Se você quer ajudar
 
 Agradecemos imensamente aos nossos contribuidores atuais que ajudaram a construir as bases do DevTracker:
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/nomedoseuperfil">
     <img src="https://github.com/nomedoseuperfil.png" width="100" height="100" style="border-radius: 50%; border: 2px solid #ddd;" alt="Sua foto do GitHub">
   </a>
-</p>
+</div>
 
-**Sua foto aqui?** Dê um Fork no projeto e envie seu primeiro Pull Request!
+<p align="center">
+  <b>Sua foto aqui?</b> Dê um Fork no projeto e envie seu primeiro Pull Request!
+</p>
